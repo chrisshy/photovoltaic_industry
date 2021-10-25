@@ -7,7 +7,8 @@ The long-term ambition is to build an industry-specific knowledge graph so that 
 
 ## Current Specific objective - Project related data:
 1. Crawl projects data on https://news.solarbe.com/xiangmu/
-2. Use NLP techniques to extract Keywords in those projects
+2. Manually write English/Chinese words about thinking process logics and Determine all useful keywords
+3. Use NLP techniques to extract Keywords in those projects
 
 ## Finished objectives:
 1. Crawl projects data on https://news.solarbe.com/xiangmu/
